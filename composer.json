@@ -22,10 +22,10 @@
     },
     "require": {
         "php" : "^7.2.5 | ^8.0",
-        "laravel/framework": "^6.0 || ^7.0 || ^8.24 || ^9.0 || ^10.0 || ^11.0 || ^12.0"
+        "laravel/framework": "^6.0 || ^7.0 || ^8.24 || ^9.0 || ^10.0 || ^11.0 || ^12.0 || ^13.0"
     },
     "require-dev": {
-        "laravel/laravel": "^8.0 || ^9.0 || ^10.0 || ^11.0 || ^12.0",
+        "laravel/laravel": "^8.0 || ^9.0 || ^10.0 || ^11.0 || ^12.0 || ^13.0",
         "fzaninotto/faker": "@stable",
         "mockery/mockery": "@stable",
         "phpunit/phpunit": "@stable"
